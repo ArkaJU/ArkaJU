@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on 3D computer vision applications and blockchain-based projects
+- 🔭 I’m currently working on 3D computer vision and blockchain-based applications
 - 👯 I’m looking to collaborate on ML/CV/blockchain projects :relaxed:
 - ![](https://komarev.com/ghpvc/?username=ArkaJU&style=plastic)
 

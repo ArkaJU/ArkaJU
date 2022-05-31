@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on 3D computer vision and blockchain-based applications
-- 👯 I’m looking to collaborate on ML/CV/blockchain projects :relaxed:
+- 🔭 I’m currently working on industrial speech processing and NLP use cases
+- 👯 I’m looking to collaborate on ML/NLP projects :relaxed:
 - ![](https://komarev.com/ghpvc/?username=ArkaJU&style=plastic)
 
 - 📫 Get in touch! 

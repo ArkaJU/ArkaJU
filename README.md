@@ -16,6 +16,3 @@ Here are some ideas to get you started:
   * [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@arkap.saha47)](https://medium.com/@arkap.saha47)
   
 - :zap: Fun fact: I am crazy about O(1)!  :racehorse:
-
-![Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkaJU&show_icons=true&theme=radical)
-

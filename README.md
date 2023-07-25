@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on industrial speech processing and NLP use cases
+- 🔭 I’m currently working on customer-facng LLM apps
 - 👯 I’m looking to collaborate on ML/NLP projects :relaxed:
 - ![](https://komarev.com/ghpvc/?username=ArkaJU&style=plastic)
 

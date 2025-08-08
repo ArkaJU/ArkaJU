@@ -15,7 +15,7 @@ My work has been published in venues like [MICCAI](https://sites.google.com/view
 - 🤖 Deep-diving into **Large Language Models (LLMs)** – open to collaborations and discussions!
 - 🧠 Sharpening my **system design** skills and architecture thinking
 
-![](https://komarev.com/ghpvc/?username=ArkaJU&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ArkaJU&style=for-the-badge) 
 
 📫 Get in touch! 
   * ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) arkap.saha47@gmail.com  

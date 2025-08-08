@@ -1,17 +1,21 @@
-### Hi there 👋 I'm Arka 
+## Hi there 👋 I'm Arka 
 
 <!--
 **ArkaJU/ArkaJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-I build AI products for a living. I have been involved in machine learning research since my undergraduate days and have had my work published in prestigious conferences like [MICCAI](https://sites.google.com/view/omia9/Program?authuser=0)
 
-I'm currently:
-- 🔭 Designing enterprise-level chatbots and recommendation engines on AWS/GCP/Azure cloud platforms :mechanical_arm:
-- 👯 Exploring the exciting space of Large Language Models (LLMs). Ping me up for project collaborations/discussions! :nerd_face:
-- :mag_right: Working towards improvement of my system design skills :construction:
-- ![](https://komarev.com/ghpvc/?username=ArkaJU&style=for-the-badge)
+I build **AI products** for a living, with a strong foundation in **machine learning research** since my undergraduate days.  
+My work has been published in venues like [MICCAI](https://sites.google.com/view/omia9/Program?authuser=0), where I contributed to research in medical imaging.
+
+### 🔧 What I’m Working On
+
+- 🔭 **Designing enterprise-grade ML systems** on **AWS**, **GCP**, and **Azure**
+- 🤖 Deep-diving into **Large Language Models (LLMs)** – open to collaborations and discussions!
+- 🧠 Sharpening my **system design** skills and architecture thinking
+
+![](https://komarev.com/ghpvc/?username=ArkaJU&style=for-the-badge)
 
 📫 Get in touch! 
   * ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) arkap.saha47@gmail.com  
